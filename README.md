@@ -47,7 +47,7 @@ Follow these steps to execute the pretrained model and lipsync the audio with th
 
    First, create a directory called `media` in parent directory and place the input video in the `media` directory with the filename `video_8s.mp4`. Similarly, place the audio file in the `media` directory with the filename `audio_8s.wav`.
    
-   _NOTE_: file name could be anything for input audio and video.
+  ###### _NOTE_: file name could be anything for input audio and video.
 
 6. Execute the Pretrained Model:
 
