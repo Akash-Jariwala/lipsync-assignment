@@ -25,7 +25,7 @@ Follow these steps to execute the pretrained model and lipsync the audio with th
 
 2. Install Dependencies:
 
-   Ensure that you have all the necessary dependencies installed. If you are using Google Colab, you can install the required dependencies by running the following commands:
+   Ensure that you have all the necessary dependencies installed. Install the required dependencies by running the following commands:
 
    ```
    pip install -r requirements.txt
