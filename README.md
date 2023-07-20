@@ -28,7 +28,7 @@ Follow these steps to execute the pretrained model and lipsync the audio with th
    Ensure that you have all the necessary dependencies installed. If you are using Google Colab, you can install the required dependencies by running the following commands:
 
    ```
-   !pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
    or install independently
    ```
@@ -65,16 +65,10 @@ Follow these steps to execute the pretrained model and lipsync the audio with th
 
    Once the execution is complete, you can find the lipsynced video in the `results` folder of the cloned repository.
 
-#### NOTE: `video_translation.ipynb` and `lipsync_model.ipynb`, both files are identical. If you are using [colab file](https://github.com/Akash-Jariwala/lipsync-assignment/blob/main/video_translation.ipynb) then simply run all the cells sequentially.
+###### NOTE: `video_translation.ipynb` and `lipsync_model.ipynb`, both files are identical. If you are using [colab file](https://github.com/Akash-Jariwala/lipsync-assignment/blob/main/video_translation.ipynb) then simply run all the cells sequentially.
+
+
 
 ## Acknowledgements
 
-We acknowledge the contribution of the original creators of the pretrained lipsync model. The pretrained model used in this assignment is available in the repository cloned from [URL_of_the_cloned_repository.git]. We thank them for their efforts in making this model available to the public.
-
-If you find the pretrained model useful, please consider citing their original work to give credit to the creators. You can find the details of the original model in the cloned repository.
-
-## Contact Information
-
-For any questions or clarifications regarding the assignment or this repository, please feel free to contact the repository owner or the assigned team at OpenInApp.
-
-Thank you for considering this assignment. We hope you find this readme helpful in understanding and completing the task. Good luck!
+I acknowledge the contribution of the original creators of the pretrained [wav2lip](https://github.com/Rudrabha/Wav2Lip) model. The pretrained model used in this assignment is available in the repository cloned from https://github.com/Rudrabha/Wav2Lip. I thank them for their efforts in making this model available to the public.
