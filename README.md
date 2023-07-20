@@ -67,6 +67,17 @@ Follow these steps to execute the pretrained model and lipsync the audio with th
 
 ###### NOTE: `video_translation.ipynb` and `lipsync_model.ipynb`, both files are identical. If you are using [colab file](https://github.com/Akash-Jariwala/lipsync-assignment/blob/main/video_translation.ipynb) then simply run all the cells sequentially.
 
+## Results
+
+#### Before
+
+
+https://github.com/Akash-Jariwala/lipsync-assignment/assets/85471620/cb6cf4c2-9548-4f9a-bfdc-741572448087
+
+
+
+#### After
+https://github.com/Akash-Jariwala/lipsync-assignment/assets/85471620/c789bf21-f5d5-4ef0-adfa-d75ad90b71b1
 
 
 ## Acknowledgements
