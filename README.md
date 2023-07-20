@@ -65,6 +65,8 @@ Follow these steps to execute the pretrained model and lipsync the audio with th
 
    Once the execution is complete, you can find the lipsynced video in the `results` folder of the cloned repository.
 
+#### NOTE: `video_translation.ipynb` and `lipsync_model.ipynb`, both files are identical. If you are using [colab file](https://github.com/Akash-Jariwala/lipsync-assignment/blob/main/video_translation.ipynb) then simply run all the cells sequentially.
+
 ## Acknowledgements
 
 We acknowledge the contribution of the original creators of the pretrained lipsync model. The pretrained model used in this assignment is available in the repository cloned from [URL_of_the_cloned_repository.git]. We thank them for their efforts in making this model available to the public.
